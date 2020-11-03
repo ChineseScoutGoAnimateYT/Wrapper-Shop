@@ -1,5 +1,5 @@
-@echo installing
+@echo Installing...
 npm install
-@echo Starting wrapper online
+@echo Starting Wrapper: Shop...
 npm start
 pause
